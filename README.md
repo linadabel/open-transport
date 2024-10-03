@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-les étapes: 
+les étapes : 
 
 ```
 A définir
